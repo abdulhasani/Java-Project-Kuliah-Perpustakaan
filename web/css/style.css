@@ -1,0 +1,21 @@
+/* 
+    Document   : style
+    Created on : 22 Nov 12, 17:54:22
+    Author     : joker
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+body{
+    margin-top: 0;
+    margin-left: 0;
+    background:url(../img/aurora.jpg);
+    
+}
+marquee{
+ 
+    color: azure;
+    
+    
+}
